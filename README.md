@@ -42,6 +42,7 @@ De entrada
 - **A2**: Pasivo (`alto`, `bajo`)
 - **A3**: Garantía (`ninguno`, `adecuado`)
 - **A4**: Ganancia (número entre 1 y 3)
+
 De salida
 - **Clase**: Resultado (`1=Malo`, `2=Promedio`, `3=Bueno`)
 
